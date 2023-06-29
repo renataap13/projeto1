@@ -1,0 +1,19 @@
+.nave{
+    color: blue;
+}
+
+.nave li a{ 
+    color:rosybrown;
+
+
+}
+
+.foto img{
+
+    height: 200px;
+    width: 150px;
+}
+
+body{
+    background-color: blueviolet;
+}
